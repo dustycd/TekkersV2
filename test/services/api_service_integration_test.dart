@@ -2,6 +2,7 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:tekkers/services/api_service.dart';
 
 void main() {
+  //run json-server --watch test/db.json --port 3000
   group('ApiService Integration Tests', () {
     late ApiService apiService;
 
