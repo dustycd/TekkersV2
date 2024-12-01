@@ -1,0 +1,5 @@
+{
+  "valid-endpoint": { "key": "value" },
+  "empty-json-endpoint": {},
+  "invalid-json-endpoint": "Invalid JSON"
+}
